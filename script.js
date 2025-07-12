@@ -3,8 +3,7 @@ const list = document.querySelector('#list')
 const bars = document.querySelector('.fa-bars')
 
 
-menu.addEventListener("click",(e)=>{
-    // e.preventDefault();
+menu.addEventListener("click",()=>{
     list.classList.toggle('navlist-active')
     bars.classList.toggle('fa-xmark')
 })
