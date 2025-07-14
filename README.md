@@ -2,4 +2,5 @@
 furniture website for sopping 
 
 
-# info 
+# about 
+This website bulid without any frameworks 
