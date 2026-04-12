@@ -52,15 +52,6 @@ Responsive Web Design Principles – For mobile, tablet, and desktop compatibili
 └── style.css
 ```
 
-## 👥 Contributing
+# 👥 Contributing
 
-Contributions are welcome! Here's how you can help:
-
-1. **Fork** the repository
-2. **Clone** your fork: `git clone https://github.com/shashikant347/FURNIX.git`
-3. **Create** a new branch: `git checkout -b feature/your-feature`
-4. **Commit** your changes: `git commit -am 'Add some feature'`
-5. **Push** to your branch: `git push origin feature/your-feature`
-
-
-
+Contributions are welcome!
