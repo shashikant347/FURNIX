@@ -24,34 +24,3 @@ CSS3 – Styling and responsive design
 JavaScript (ES6+) – Interactive functionality
 
 Responsive Web Design Principles – For mobile, tablet, and desktop compatibility
-
-
-## 📁 Project Structure
-
-```
-.
-├── image
-│   ├── bed.png
-│   ├── bedroom.jpg
-│   ├── category1.jpg
-│   ├── category2.jpg
-│   ├── category3.jpg
-│   ├── category4.jpg
-│   ├── fix-bg.jpg
-│   ├── flower-vase.png
-│   ├── footer-bg.jpg
-│   ├── hanging lamp.png
-│   ├── living-room.jpg
-│   ├── lounge chair.png
-│   ├── modern chair.png
-│   ├── profile3.jpg
-│   ├── side table.png
-│   └── sofa.png
-├── index.html
-├── script.js
-└── style.css
-```
-
-# 👥 Contributing
-
-Contributions are welcome!
